@@ -9,6 +9,8 @@ https://medium.com/cloudera-inc/flank-for-halifax-canada-transit-2d4dc5b8ad64
 
 https://github.com/tspannhw/GetWebCamera
 
+https://dzone.com/articles/building-a-real-time-slack-bot-with-generative-ai
+
 
 ### Monday, December 4, 2023
 
