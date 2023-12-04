@@ -15,4 +15,4 @@ https://dzone.com/articles/building-a-real-time-slack-bot-with-generative-ai
 ### Monday, December 4, 2023
 
 
-
+https://github.com/tspannhw/FLiPStackWeekly/blob/main/114-04Dec2023.md
