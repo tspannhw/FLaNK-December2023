@@ -38,6 +38,8 @@ https://www.streamingdata.recipes/
 
 https://medium.com/@tspann/real-time-flight-analytics-c7ad48e8005f
 
+![img](https://raw.githubusercontent.com/tspannhw/FLiPStackWeekly/main/generatedai/_18488d8a-b754-47db-9ae7-56c87ffb20a7.jpeg)
+
 
 ### Monday, December 11, 2023
 
