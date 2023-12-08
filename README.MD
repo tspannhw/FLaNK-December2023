@@ -11,26 +11,41 @@ https://github.com/tspannhw/GetWebCamera
 
 https://dzone.com/articles/building-a-real-time-slack-bot-with-generative-ai
 
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_69642b92-a029-41db-92d3-d9997da138bd.jpeg?raw=true)
+
 
 ### Monday, December 4, 2023
 
 
 https://github.com/tspannhw/FLiPStackWeekly/blob/main/114-04Dec2023.md
 
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_67d866f1-aee5-4089-b94b-4c810ccecb19.jpeg?raw=true)
 
 ### Tuesday, December 5, 2023
 
 https://medium.com/cloudera-inc/next-generation-nifi-sneak-peak-e2deb8977adb
 
+
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_66c19a27-29c0-4c94-b31b-302993841b71.jpeg?raw=true)
+
+
 ### Wednesday, December 6, 2023
 
 https://medium.com/@tspann/javacv-for-streaming-web-camera-pipelines-9768975bcd38
+
+
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_62aed7f0-5df7-4f1a-bf9e-4d414c9f9e8d.jpeg?raw=true)
+
 
 ### Thursday, December 7, 2023
 
 http://datastreamhouse.casa/
 
 https://medium.com/@tspann/let-nifi-worry-about-those-stocks-for-you-57d5f16b5e6b
+
+
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_103108e7-1d41-475d-bf40-7e4fb9ddcdd6.jpeg?raw=true)
+
 
 ### Friday, December 8, 2023
 
