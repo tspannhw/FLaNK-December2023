@@ -38,3 +38,29 @@ https://www.streamingdata.recipes/
 
 https://medium.com/@tspann/real-time-flight-analytics-c7ad48e8005f
 
+
+### Monday, December 11, 2023
+
+### Tuesday, December 12, 2023
+
+### Wednesday, December 13, 2023
+
+### Thursday, December 14, 2023
+
+OSA Con
+
+
+### Friday, December 15, 2023
+
+
+### Monday, December 18, 2023
+
+### Tuesday, December 19, 2023
+
+### Wednesday, December 20, 2023
+
+### Thursday, December 21, 2023
+
+
+
+
