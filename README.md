@@ -32,3 +32,9 @@ http://datastreamhouse.casa/
 
 https://medium.com/@tspann/let-nifi-worry-about-those-stocks-for-you-57d5f16b5e6b
 
+### Friday, December 8, 2023
+
+https://www.streamingdata.recipes/
+
+https://medium.com/@tspann/real-time-flight-analytics-c7ad48e8005f
+
