@@ -55,6 +55,11 @@ https://medium.com/@tspann/real-time-flight-analytics-c7ad48e8005f
 
 ![img](https://raw.githubusercontent.com/tspannhw/FLiPStackWeekly/main/generatedai/_18488d8a-b754-47db-9ae7-56c87ffb20a7.jpeg)
 
+### Sunday, December 10, 2023
+
+https://www.youtube.com/shorts/EJ2J7ip6T-E
+
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_00160675-0ad0-4042-9438-eaa69bf512ce.jpeg?raw=true)
 
 ### Monday, December 11, 2023
 
