@@ -63,6 +63,14 @@ https://www.youtube.com/shorts/EJ2J7ip6T-E
 
 ### Monday, December 11, 2023
 
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/Designer.png?raw=true)
+
+https://www.linkedin.com/pulse/flank-weekly-11-december-2023-tim-spann--ilsee
+
+https://medium.com/@tspann/flank-weekly-for-11-december-2023-ddcf39a5d834
+
+https://www.youtube.com/watch?v=6dRYn4FZVmw&ab_channel=DatainMotion-HowToBeaStreamingEngineer
+
 ### Tuesday, December 12, 2023
 
 ### Wednesday, December 13, 2023
