@@ -73,6 +73,10 @@ https://www.youtube.com/watch?v=6dRYn4FZVmw&ab_channel=DatainMotion-HowToBeaStre
 
 ### Tuesday, December 12, 2023
 
+Sad day today, my beautiful cat Shaggy passed away.
+
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/IMG_1493.JPG?raw=true)
+
 ### Wednesday, December 13, 2023
 
 ### Thursday, December 14, 2023
