@@ -77,6 +77,10 @@ Sad day today, my beautiful cat Shaggy passed away.
 
 ![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/IMG_1493.JPG?raw=true)
 
+https://medium.com/@tspann/ingesting-all-the-medications-in-america-every-7-days-184698578cc6
+
+
+
 ### Wednesday, December 13, 2023
 
 ### Thursday, December 14, 2023
