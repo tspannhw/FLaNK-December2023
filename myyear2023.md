@@ -3,9 +3,7 @@ Welcome to a Year 2023 wrap-up by Timothy Spann.
 ### Best of 2023
 
 
-I am responsible for spreading the good word of Apache NiFi, Flink and Kafka.   I accomplish this by doing talks, meetups, articles, 
-podcasts, videos, demos, repositories, newsletters, and other content.
-
+I am responsible for spreading the good word of Apache NiFi, Flink and Kafka.   I accomplish this by doing talks, meetups, articles, podcasts, videos, demos, GenAI art, repositories, newsletters, and other content.
 
 I spoke at over X conferences both virtual and in-person
 
@@ -21,6 +19,9 @@ Added mastodon [https://hachyderm.io/@timspann]()
 
 Building my Youtube to nearly 200 members of personal youtube 
 [https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w](https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w)
+
+Schedule 
+[https://www.linkedin.com/pulse/schedule-2023-tim-spann-/](https://www.linkedin.com/pulse/schedule-2023-tim-spann-/)
 
 **2023**
 
