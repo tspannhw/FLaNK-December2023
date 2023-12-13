@@ -83,6 +83,12 @@ https://medium.com/@tspann/ingesting-all-the-medications-in-america-every-7-days
 
 ### Wednesday, December 13, 2023
 
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_30faa953-c29e-40cb-a7de-2f81b1120ffb.jpeg?raw=true)
+
+https://medium.com/@tspann/never-get-lost-in-the-stream-2ade0af99a73
+
+
+
 ### Thursday, December 14, 2023
 
 OSA Con
