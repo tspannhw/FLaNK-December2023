@@ -5,7 +5,7 @@ Welcome to a Year 2023 wrap-up by Timothy Spann.
 
 I am responsible for spreading the good word of Apache NiFi, Flink and Kafka.   I accomplish this by doing talks, meetups, articles, podcasts, videos, demos, GenAI art, repositories, newsletters, and other content.
 
-I spoke at over X conferences both virtual and in-person
+I spoke at over 30 conferences both virtual and in-person
 
 Built X issues of my newsletter.   https://github.com/tspannhw/FLiPStackWeekly to over 5,800 readers.
 
