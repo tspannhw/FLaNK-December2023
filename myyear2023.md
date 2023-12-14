@@ -12,7 +12,7 @@ Built 51 issues of my newsletter.   https://github.com/tspannhw/FLiPStackWeekly 
 
 Build lots of demo repos [https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=](https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=)
 
-Build over X slides from events. [https://www.slideshare.net/bunkertor/presentations](https://www.slideshare.net/bunkertor/presentations)
+Build over 43 slides from events. [https://www.slideshare.net/bunkertor/presentations](https://www.slideshare.net/bunkertor/presentations)
 
 Built up blogs at https://medium.com/@tspann, Cloudera, DZone (top expert in IoT and ML), [https://timwithpulsar.hashnode.dev/](https://timwithpulsar.hashnode.dev/), [https://dev.to/tspannhw](https://dev.to/tspannhw), [https://www.datainmotion.dev/](https://www.datainmotion.dev/), 
 
@@ -36,11 +36,11 @@ Schedule
 
 ✍️ X articles and blog posts
 
-🗞 X #newsletter weeklies written
+🗞 51 #newsletter weeklies written
 
 📚 X code repositories built
 
-📄 X slides created for events
+📄 43 slides created for events
 
 🖥️ X demos built, run and shown
 
