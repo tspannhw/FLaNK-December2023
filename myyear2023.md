@@ -4,7 +4,6 @@ Welcome to a Year 2023 wrap-up by Timothy Spann.
 
 ### Best of 2023
 
-
 I am responsible for spreading the good word of Apache NiFi, Flink and Kafka.   I accomplish this by doing talks, meetups, articles, podcasts, videos, demos, GenAI art, repositories, newsletters, and other content.
 
 I spoke at over 33 conferences both virtual and in-person
@@ -30,8 +29,6 @@ Schedule
 🎯 2 DZone Top Expert Zones 
 
 📣 33 conference talks (including both virtual and in-person)
-
-🎙 X podcasts
 
 📅 9 meetups
 
