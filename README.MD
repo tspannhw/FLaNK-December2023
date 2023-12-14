@@ -91,7 +91,14 @@ https://medium.com/@tspann/never-get-lost-in-the-stream-2ade0af99a73
 
 ### Thursday, December 14, 2023
 
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_trainflink0796dfd3-20cf-4bb9-abed-48a10483fdd2.jpeg?raw=true)
+
 OSA Con
+https://www.slideshare.net/bunkertor/osacon-2023-unlocking-financial-data-with-realtime-pipelines
+
+https://medium.com/@tspann/iteration-2-building-a-system-to-consume-all-the-unsecured-real-time-transit-data-in-the-world-5f365c0cf240
+
+
 
 
 ### Friday, December 15, 2023
