@@ -1,5 +1,7 @@
 Welcome to a Year 2023 wrap-up by Timothy Spann.
 
+![img](https://github.com/tspannhw/FLaNK-December2023/blob/main/tspanndzone.jpg?raw=true)
+
 ### Best of 2023
 
 
