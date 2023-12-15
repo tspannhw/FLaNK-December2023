@@ -104,6 +104,10 @@ https://youtu.be/iw_F0nGanL0?si=ZMP-sdPvX8jL_ght
 
 ### Friday, December 15, 2023
 
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/80sxmas.jpeg?raw=true)
+
+https://medium.com/@tspann/streaming-change-events-building-iceberg-s-ddc40d9d5503
+
 
 ### Monday, December 18, 2023
 
