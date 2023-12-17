@@ -28,23 +28,27 @@ Schedule
 
 🎯 2 DZone Top Expert Zones 
 
+🎯 2 DZone Trend Reports (https://dzone.com/trendreports/data-pipelines-2 https://dzone.com/trendreports/development-at-scale)
+
 📣 33 conference talks (including both virtual and in-person)
+
+📣 2 Cloudera Evolve Events
 
 📅 9 meetups
 
 📼 6 webinars
 
-✍️ X articles and blog posts
+✍️ 59 articles and blog posts
 
 🗞 51 #newsletter weeklies written
 
-📚 X code repositories built
+📚 54 code repositories built
 
 📄 43 slides created for events
 
-🖥️ X demos built, run and shown
+🖥️ 25 demos built, run and shown
 
-📺 X videos from various streaming resources
+📺 58 videos from various streaming resources
 
 🏢 116 New Meetup Members 
  
@@ -102,7 +106,7 @@ Let me know in the comments.
 
 117: 25-December-2023:
 
-116: 18-December-2023:
+116: 18-December-2023: https://github.com/tspannhw/FLiPStackWeekly/blob/main/116-18December2023.md
 
 115: 11-December-2023: https://www.datainmotion.dev/2023/12/flank-weekly-for-11-december-2023.html https://github.com/tspannhw/FLiPStackWeekly/blob/main/115-11Dec2023.md https://dev.to/tspannhw/flank-stack-weekly-11-dec-2023-1mj0 https://timwithpulsar.hashnode.dev/flank-stack-weekly-for-11-december-2023 https://www.linkedin.com/pulse/flank-weekly-11-december-2023-tim-spann--ilsee
 
