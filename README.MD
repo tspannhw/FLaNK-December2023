@@ -117,6 +117,7 @@ https://github.com/tspannhw/FLiPStackWeekly/blob/main/116-18December2023.md
 
 https://www.youtube.com/watch?v=5EbiRCcD8JE
 
+https://medium.com/@tspann/thermal-images-and-sensor-data-from-edge-to-kafka-to-iceberg-and-beyond-b0eb2c73f991
 
 
 ### Tuesday, December 19, 2023
