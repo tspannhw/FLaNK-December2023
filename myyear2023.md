@@ -10,7 +10,13 @@ I spoke at over 33 conferences both virtual and in-person
 
 Built 51 issues of my newsletter.   https://github.com/tspannhw/FLiPStackWeekly to over 6,143 readers.
 
-Build lots of demo repos [https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=](https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=)
+108K Views on DatainMotion.Dev
+
+17K Views on Medium with 875 followers.
+
+40K Views on DZone.
+
+Build 54 demo repos [https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=](https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=)
 
 Build over 43 slides from events. [https://www.slideshare.net/bunkertor/presentations](https://www.slideshare.net/bunkertor/presentations)
 
