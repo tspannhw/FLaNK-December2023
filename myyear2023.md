@@ -16,7 +16,7 @@ Built 51 issues of my newsletter.   https://github.com/tspannhw/FLiPStackWeekly 
 
 40K Views on DZone.
 
-Build 54 demo repos [https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=](https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=)
+Build 55 demo repos [https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=](https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=)
 
 Build over 43 slides from events. [https://www.slideshare.net/bunkertor/presentations](https://www.slideshare.net/bunkertor/presentations)
 
