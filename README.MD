@@ -111,6 +111,12 @@ https://medium.com/@tspann/streaming-change-events-building-iceberg-s-ddc40d9d55
 
 ### Monday, December 18, 2023
 
+![xmas2](https://github.com/tspannhw/FLiPStackWeekly/assets/18673814/651b578b-a5a5-4b76-b57b-f04c4236e954)
+
+https://github.com/tspannhw/FLiPStackWeekly/blob/main/116-18December2023.md
+
+
+
 ### Tuesday, December 19, 2023
 
 ### Wednesday, December 20, 2023
