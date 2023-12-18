@@ -24,7 +24,7 @@ Built up blogs at https://medium.com/@tspann, Cloudera, DZone (top expert in IoT
 
 Added mastodon [https://hachyderm.io/@timspann]()
 
-Building my Youtube to nearly 200 members of personal youtube 
+Building my Youtube to nearly 200 members of personal youtube with 59 videos 
 [https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w](https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w)
 
 Schedule 
