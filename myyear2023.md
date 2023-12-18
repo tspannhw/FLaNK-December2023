@@ -48,13 +48,13 @@ Schedule
 
 🗞 51 #newsletter weeklies written
 
-📚 54 code repositories built
+📚 55 code repositories built
 
 📄 43 slides created for events
 
 🖥️ 25 demos built, run and shown
 
-📺 58 videos from various streaming resources
+📺 59 videos from various streaming resources
 
 🏢 116 New Meetup Members 
  
