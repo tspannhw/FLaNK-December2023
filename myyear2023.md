@@ -24,7 +24,7 @@ Built up blogs at https://medium.com/@tspann, Cloudera, DZone (top expert in IoT
 
 Added mastodon [https://hachyderm.io/@timspann]()
 
-Building my Youtube to nearly 200 members of personal youtube with 59 videos 
+Building my Youtube to 200 members of personal youtube with 59 videos 
 [https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w](https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w)
 
 Schedule 
@@ -34,7 +34,7 @@ Schedule
 
 🎯 2 DZone Top Expert Zones 
 
-🎯 2 DZone Trend Reports (https://dzone.com/trendreports/data-pipelines-2 https://dzone.com/trendreports/development-at-scale)
+🎯 2 DZone Trend Reports ([https://dzone.com/trendreports/data-pipelines-2](https://dzone.com/trendreports/data-pipelines-2) [https://dzone.com/trendreports/development-at-scale](https://dzone.com/trendreports/development-at-scale))
 
 📣 33 conference talks (including both virtual and in-person)
 
@@ -44,7 +44,7 @@ Schedule
 
 📼 6 webinars
 
-✍️ 59 articles and blog posts
+✍️ 61 articles and blog posts
 
 🗞 51 #newsletter weeklies written
 
@@ -56,14 +56,12 @@ Schedule
 
 📺 59 videos from various streaming resources
 
-🏢 116 New Meetup Members 
+🏢 118 New Meetup Members 
  
  
 ** What about your 2023? **
 
 Let me know in the comments.
-
-
 
 
 
