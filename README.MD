@@ -122,6 +122,11 @@ https://medium.com/@tspann/thermal-images-and-sensor-data-from-edge-to-kafka-to-
 
 ### Tuesday, December 19, 2023
 
+![xmas](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_023c177c-9841-42d7-b951-d2e0a6f2b4a3.jpeg?raw=true)
+
+https://medium.com/@tspann/ten-tips-to-turbo-charge-your-streaming-b4749465ad48
+
+
 ### Wednesday, December 20, 2023
 
 ### Thursday, December 21, 2023
