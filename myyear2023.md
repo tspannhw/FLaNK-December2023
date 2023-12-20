@@ -68,7 +68,73 @@ Let me know in the comments.
 
 #### Articles
 
-* 
+| # |Articles                                                                                                      |
+|---|--------------------------------------------------------------------------------------------------------------|
+|1  |https://medium.com/cloudera-inc/streaming-change-events-building-iceberg-s-ddc40d9d5503?source=your_stories_page-------------------------------------|
+|2  |https://medium.com/@tspann/iteration-2-building-a-system-to-consume-all-the-unsecured-real-time-transit-data-in-the-world-5f365c0cf240?source=your_stories_page-------------------------------------|
+|3  |https://medium.com/cloudera-inc/never-get-lost-in-the-stream-2ade0af99a73?source=your_stories_page-------------------------------------|
+|4  |https://medium.com/cloudera-inc/ingesting-all-the-medications-in-america-every-7-days-184698578cc6?source=your_stories_page-------------------------------------|
+|5  |https://medium.com/cloudera-inc/real-time-flight-analytics-c7ad48e8005f?source=your_stories_page-------------------------------------|
+|6  |https://medium.com/cloudera-inc/let-nifi-worry-about-those-stocks-for-you-57d5f16b5e6b?source=your_stories_page-------------------------------------|
+|7  |https://medium.com/cloudera-inc/javacv-for-streaming-web-camera-pipelines-9768975bcd38?source=your_stories_page-------------------------------------|
+|8  |https://medium.com/cloudera-inc/next-generation-nifi-sneak-peak-e2deb8977adb?source=your_stories_page-------------------------------------|
+|9  |https://medium.com/cloudera-inc/flank-for-halifax-canada-transit-2d4dc5b8ad64?source=your_stories_page-------------------------------------|
+|10 |https://medium.com/cloudera-inc/real-time-slack-bots-powered-by-llm-and-dataflows-770786f8ffd4?source=your_stories_page-------------------------------------|
+|11 |https://medium.com/cloudera-inc/transit-in-sao-paulo-brasil-flank-style-eaec6753cc63?source=your_stories_page-------------------------------------|
+|12 |https://medium.com/cloudera-inc/iteration-1-building-a-system-to-consume-all-the-real-time-transit-data-in-the-world-at-once-4322b160df9d?source=your_stories_page-------------------------------------|
+|13 |https://medium.com/@tspann/prioritize-collection-of-os-network-and-system-events-via-osquery-and-apache-nifi-c34e41a27165?source=your_stories_page-------------------------------------|
+|14 |https://medium.com/@tspann/evolve-nyc-2023-wrap-up-f8d6366555dd?source=your_stories_page-------------------------------------|
+|15 |https://medium.com/cloudera-inc/the-latest-in-real-tim-e-analytics-generative-ai-llm-and-beyond-a0300e205197?source=your_stories_page-------------------------------------|
+|16 |https://medium.com/cloudera-inc/streaming-llm-with-apache-nifi-huggingface-ad2f0d367468?source=your_stories_page-------------------------------------|
+|17 |https://medium.com/cloudera-inc/using-apache-nifi-to-backup-and-restore-minifi-flows-from-cloudera-efm-87f303b56ebd?source=your_stories_page-------------------------------------|
+|18 |https://medium.com/cloudera-inc/hbase-to-hbase-via-apache-nifi-d3d1d674eab2?source=your_stories_page-------------------------------------|
+|19 |https://medium.com/cloudera-inc/no-code-sentiment-analysis-with-hugging-face-and-apache-nifi-for-article-summaries-cf06d1df1283?source=your_stories_page-------------------------------------|
+|20 |https://medium.com/@tspann/tims-quarter-in-streaming-2q-2023-59181e7847b3?source=your_stories_page-------------------------------------|
+|21 |https://medium.com/cloudera-inc/edge-managing-c-and-java-agents-d6590c963e9c?source=your_stories_page-------------------------------------|
+|22 |https://medium.com/@tspann/open-source-streaming-talks-in-progress-3e75af8848b0?source=your_stories_page-------------------------------------|
+|23 |https://medium.com/cloudera-inc/watching-airport-traffic-in-real-time-32c522a6e386?source=your_stories_page-------------------------------------|
+|24 |https://medium.com/cloudera-inc/cdc-not-cat-data-capture-e43713879c03?source=your_stories_page-------------------------------------|
+|25 |https://medium.com/@tspann/functions-anywhere-faas-ee92ecedb248?source=your_stories_page-------------------------------------|
+|26 |https://medium.com/cloudera-inc/writing-critical-syslog-events-to-apache-iceberg-for-analysis-a0799f24fe18?source=your_stories_page-------------------------------------|
+|27 |https://medium.com/cloudera-inc/ingesting-events-into-dockerized-ibm-db2-jdbc-with-apache-nifi-f0ca452d1351?source=your_stories_page-------------------------------------|
+|28 |https://medium.com/@tspann/apache-nifi-1-22-updates-e658eaff3308?source=your_stories_page-------------------------------------|
+|29 |https://medium.com/cloudera-inc/harnessing-the-power-of-nifi-building-a-seamless-flow-to-ingest-pm2-5-90246393fcab?source=your_stories_page-------------------------------------|
+|30 |https://medium.com/cloudera-inc/wildfires-air-quality-time-to-fire-up-the-sensors-and-start-flanking-12ea0ba33f63?source=your_stories_page-------------------------------------|
+|31 |https://medium.com/cloudera-inc/seamless-integration-unleashing-the-power-of-real-time-groceries-with-nifi-kafka-flink-and-32d659fe0903?source=your_stories_page-------------------------------------|
+|32 |https://medium.com/cloudera-inc/building-a-real-time-data-pipeline-a-comprehensive-tutorial-on-minifi-nifi-kafka-and-flink-ee03ee6722cb?source=your_stories_page-------------------------------------|
+|33 |https://medium.com/@tspann/using-nifi-as-an-smtp-email-test-server-713677ac5b67?source=your_stories_page-------------------------------------|
+|34 |https://medium.com/cloudera-inc/finding-the-best-way-around-7491c76ca4cb?source=your_stories_page-------------------------------------|
+|35 |https://medium.com/@tspann/garden-state-java-users-group-talk-on-may-9-2023-527765336b6d?source=your_stories_page-------------------------------------|
+|36 |https://medium.com/@tspann/deploy-your-nifi-flow-to-k8-in-aws-faa85b0e620e?source=your_stories_page-------------------------------------|
+|37 |https://medium.com/cloudera-inc/ingest-from-iceberg-tables-with-cloudera-dataflow-2dc3bb30096f?source=your_stories_page-------------------------------------|
+|38 |https://medium.com/@tspann/building-a-travel-advisory-app-with-apache-nifi-in-k8-969b44c84958                 |
+|39 |https://medium.com/@tspann/streaming-stocks-with-python-kafka-flink-and-nifi-fbca6be89c87?source=your_stories_page-------------------------------------|
+|40 |https://medium.com/@tspann/real-time-stream-processing-with-hazelcast-and-apache-pulsar-2d27c8332f87?source=your_stories_page-------------------------------------|
+|41 |https://medium.com/@tspann/so-you-want-to-be-a-developer-advocate-8cf836a2226d?source=your_stories_page-------------------------------------|
+|42 |https://medium.com/@tspann/tutorial-build-your-first-streaming-application-now-6338a248d1c1?source=your_stories_page-------------------------------------|
+|43 |https://medium.com/@tspann/creating-apache-nifi-apache-pulsar-apache-flink-apps-citibikenyc-data-59b7258a8b65?source=your_stories_page-------------------------------------|
+|44 |https://medium.com/@tspann/pulsar-devops-with-pulsar-shell-and-cli-tools-f87e886467b6?source=your_stories_page-------------------------------------|
+|45 |https://medium.com/@tspann/mastodon-streaming-to-pulsar-via-python-be7538112023?source=your_stories_page-------------------------------------|
+|46 |https://medium.com/@tspann/building-real-time-schema-pipelines-from-messaging-topics-291a8d569130?source=your_stories_page-------------------------------------|
+|47 |https://medium.com/@tspann/thermal-images-and-sensor-data-from-edge-to-kafka-to-iceberg-and-beyond-b0eb2c73f991|
+|48 |https://medium.com/@tspann/ten-tips-to-turbo-charge-your-streaming-b4749465ad48                               |
+|49 |https://foojay.io/today/real-time-stream-processing-with-hazelcast-and-streamnative/                          |
+|50 |https://streamnative.io/blog/spring-into-pulsar-part-3-building-an-application-with-the-new-spring-library-for-apache-pulsar|
+|51 |https://www.linkedin.com/pulse/schedule-2023-tim-spann-/                                                      |
+|52 |https://community.cloudera.com/t5/Community-Articles/Best-in-Flow-Event/ta-p/368947                           |
+|53 |https://blog.cloudera.com/a-talented-team-innovative-technology-and-the-opportunity-to-grow-there-is-no-place-like-cloudera/|
+|54 |https://www.slideshare.net/bunkertor/bestinflowcompetitiontutorials03may2023                                  |
+|55 |https://dzone.com/articles/building-a-real-time-slack-bot-with-generative-ai                                  |
+|56 |https://dzone.com/articles/real-time-analytics-1                                                              |
+|57 |https://dzone.com/articles/what-is-a-modern-developer                                                         |
+|58 |https://dzone.com/articles/streaming-change-data-capture-data-two-ways                                        |
+|59 |https://dzone.com/articles/harnessing-the-power-of-nifi-building-a-seamless-f                                 |
+|60 |https://dzone.com/articles/real-time-stream-processing-with-hazelcast-and-streamnative                        |
+|61 |https://dzone.com/articles/how-to-create-a-real-time-scalable-streaming-app-u                                 |
+|62 |https://dzone.com/trendreports/data-pipelines-2                                                               |
+|63 |https://dzone.com/trendreports/development-at-scale                                                           |
+
+
 
 #### Code
 
