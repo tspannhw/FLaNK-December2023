@@ -129,6 +129,14 @@ https://medium.com/@tspann/ten-tips-to-turbo-charge-your-streaming-b4749465ad48
 
 ### Wednesday, December 20, 2023
 
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_1e9c5998-ab89-4b2d-a76d-0beea5ceeed7.jpeg?raw=true)
+
+https://medium.com/@tspann/my-year-in-review-2023-0ef5e5a36711
+
+https://github.com/tspannhw/FLaNK-December2023/blob/main/myyear2023.md
+
+
+
 ### Thursday, December 21, 2023
 
 
