@@ -88,7 +88,126 @@ Let me know in the comments.
 
 #### Videos
 
-* 
+
+[\[Demo\] StreamNative REST API in Action (12:25 min)](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dpds3gizWEyw%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234402361&usg=AOvVaw2sX03VXGyQLOrQb-CTOQo3)
+
+[\[Demo\] StreamNative REST API in Action (12:25 min) - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dpds3gizWEyw%26ab_channel%3DStreamNative&sa=D&source=editors&ust=1703097234403025&usg=AOvVaw19iwITE6ZEZSk3ZljMgxM_)
+
+[Adding Generative AI to Real-Time Streaming Pipelines | Timothy Spann](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWQA8G5_cMcQ%26t%3D2144s&sa=D&source=editors&ust=1703097234403535&usg=AOvVaw3AZuoZ3KBQdXcOXMnAKQ62)
+
+[An example of using Edge Flow Manager with MiNiFi Java, Apache NiFi, Apache Kafka, Apache Flink](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKM4fx74UhE4&sa=D&source=editors&ust=1703097234404045&usg=AOvVaw081KDE0ELsXTGcI8z6vROj)
+
+[Apache NiFi with Slack for Live Chat with Generative AI](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvirKyKJlaDE%26t%3D601s&sa=D&source=editors&ust=1703097234404571&usg=AOvVaw3S6UQrFM3yzfQDeKPgBafd)
+
+[Becoming a Techno Empath With AI - HuggingFace Easy](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJdsY5p1GZ38&sa=D&source=editors&ust=1703097234405097&usg=AOvVaw3N-ANbqIryK4xU2HbVaz4B)
+
+[Big Data Fest 2023 | DAY 2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqW9CP8Xngk4%26ab_channel%3DSoftServeCareer&sa=D&source=editors&ust=1703097234405610&usg=AOvVaw1XjbUteW48NevL1_sYfYN3)
+
+[Build ML Enhanced Event Streaming Apps with Python Microservices | Tim Spann | Conf42 Python 2023](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DptjRobC1FSw%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234406135&usg=AOvVaw0rXQA9Xxao7LKOfQtt0zeE)
+
+[Building a Real-Time IoT Application with Pulsar and Pinot (Timothy Spann, Cloudera) | RTA Summit 23 - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNMgkPFEQ0jA%26pp%3DygUIVGltIE5pRmk%253D&sa=D&source=editors&ust=1703097234406645&usg=AOvVaw1IFp_Y_RcSL_blOV7xgnkb)
+
+[Building Modern Data Streaming Apps - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiT60STl-Wuk%26pp%3DygUIVGltIE5pRmk%253D&sa=D&source=editors&ust=1703097234407144&usg=AOvVaw2nLHo6PoAscrl6FQWluq3v)
+
+[Building Modern Data Streaming Apps with Open Source - Timothy Spann, StreamNative - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWvPqE8J3ZOE%26ab_channel%3DTheLinuxFoundation&sa=D&source=editors&ust=1703097234407631&usg=AOvVaw386KWY5-sHeg7Eebr_rZY7)
+
+[Building Modern Data Streaming Apps with Python | Tim Spann | Conf42 DevOps 2023](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DOBLRKO67xxE%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234408148&usg=AOvVaw3HSyUPMCp4gZuIipS7YaWg)
+
+[Building Real-Time Requires a Team: Tim Spann, Developer Advocate @ StreamNative](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dk8Eey16OQMg&sa=D&source=editors&ust=1703097234408680&usg=AOvVaw2Yg9RDjf63qlme4SPWzxZT)
+
+[Cloud Native Apache Pulsar Development 202 with Python](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVjZiFiqfwGI%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234409147&usg=AOvVaw3N1_6tGZMWGYJ9pPDwKtny)
+
+[Cloudera DataFlow Real-Time Ingegration of IBM WatsonX.AI Granite 13B - Instruct v1 Model](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dhe7bcQDbAIQ%26t%3D16s&sa=D&source=editors&ust=1703097234409682&usg=AOvVaw32XQwGqpDEjo_iRPI0lVq7)
+
+[Cloudera Edge Flow Manager with MiNiFi Java and C++ Agents.](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DjCRnKP3xHpQ&sa=D&source=editors&ust=1703097234410153&usg=AOvVaw1qi8GFxBz8teo6k97RIbk_)
+
+[DailyMed Data Ingest Automatically with Apache NiFi](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6dRYn4FZVmw%26t%3D5s&sa=D&source=editors&ust=1703097234410652&usg=AOvVaw2ZLlqtk1RJalvVIaPoDxab)
+
+[DataFlow Event of The Year](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DW1zho5yzm5M&sa=D&source=editors&ust=1703097234411138&usg=AOvVaw08G5itAQIV65xshOJJINM3)
+
+[Deploy Your Flow to K8](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbiKribaFD_s&sa=D&source=editors&ust=1703097234411712&usg=AOvVaw3pnVa5J26QVuxEeGfTP9nT)
+
+[Devnexus 2023 - Apache Pulsar Development 101 - Timothy Spann - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-qzPgwmE32I%26pp%3DygUIVGltIE5pRmk%253D&sa=D&source=editors&ust=1703097234412202&usg=AOvVaw0KoV_7ycgo_xEdGmWezOAp)
+
+[FLaNK - Travel Advisory](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-r8zf_nfxCw&sa=D&source=editors&ust=1703097234412643&usg=AOvVaw26aQazuOEOp-5taIdSGM0n)
+
+[FLaNK-CDC with Debezium (Kafka, Kafka Connect, Flink SQL, NiFi)](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNPWglZW3rig&sa=D&source=editors&ust=1703097234413099&usg=AOvVaw2d0oxMSXUactUlKWKXWl8i)
+
+[How to Data Flow](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEsl1ZYZRSH4&sa=D&source=editors&ust=1703097234413545&usg=AOvVaw3jz5AtoUByyoDx6mymdHet)
+
+[How You Can Track Airplanes - Hacking, Program, Code, Spying](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7N6A0kdCPlQ%26t%3D6s&sa=D&source=editors&ust=1703097234414024&usg=AOvVaw394AKPFVjAo0evouT1pSDW)
+
+[https://www.youtube.com/shorts/z1S0rs6Pa6s](https://www.google.com/url?q=https://www.youtube.com/shorts/z1S0rs6Pa6s&sa=D&source=editors&ust=1703097234414493&usg=AOvVaw0brxSpEqrUD5_096_MaaHq)
+
+[https://www.youtube.com/watch?v=RalKkaeeUuE](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRalKkaeeUuE&sa=D&source=editors&ust=1703097234414942&usg=AOvVaw0JjCrshrRSxr96DSVP-zQj)
+
+[https://www.youtube.com/watch?v=VDQloIcRvCM](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVDQloIcRvCM&sa=D&source=editors&ust=1703097234415388&usg=AOvVaw2mxWlndlXQXcnAfAogwx0j)
+
+[https://www.youtube.com/watch?v=YkV1Dn4xGAM](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DYkV1Dn4xGAM%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234415846&usg=AOvVaw3y4CIpUXOaWzn_4N4cw_Cd)
+
+[IBM WatsonX.AI Granite Models with Cloudera DataFlow](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D91jG5HkwCTU&sa=D&source=editors&ust=1703097234416339&usg=AOvVaw3Ry6FqGIUeCjTOGvIRg3xC)
+
+[Let's Keep It Simple and Streaming with Timothy Spann](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dm7Xe6ZddSFg%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234416808&usg=AOvVaw0Wm_jcgiJe4KoJjpM0_GP3)
+
+[LetsGetYourFlowOn](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyKFS8-A14Tg&sa=D&source=editors&ust=1703097234417320&usg=AOvVaw2rL31XDZ0eZ3a9KkZDRo5R)
+
+[Mastering Data Streaming Pipelines](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DEoKEl9q_H0c%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234417804&usg=AOvVaw3JJXymdt5RO9WsKcNElmZB)
+
+[Meetup - 26 Oct 2023](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGzZPWbYqcIY&sa=D&source=editors&ust=1703097234418295&usg=AOvVaw3uxTZLJl5_scR8MAAfVqM7)
+
+[Migrating MiNiFi Flows to New Versions of Edge Flow Manager and Also Backups and Restores](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnuS3X5DxFWM&sa=D&source=editors&ust=1703097234418727&usg=AOvVaw07wYTAXN1AENjtHp77Ho9y)
+
+[More Real-Time Transit in Brazil with Maps!](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnXjsk5CGygE&sa=D&source=editors&ust=1703097234419107&usg=AOvVaw1jDuB9byVC2iraHKx0egQA)
+
+[NiFi for Transit: GTFS Realtime Feeds with PostgreSQL Lookups](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DuLk4fTh2sXM%26t%3D847s&sa=D&source=editors&ust=1703097234419449&usg=AOvVaw0ZiCLzpd4GyR3HarL4VMWG)
+
+[Premiere - Conf42 DevOps 2023](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvTzV1OdbUCk%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234419887&usg=AOvVaw1O3yw4QBlWatIMCFHwopTc)
+
+[Premiere - Conf42 Internet of Things (IoT) 2023 - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBZ7rZa9feKA%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234420292&usg=AOvVaw06RSvTKR6LNl0JjrM9MnhK)
+
+[Premiere - Conf42 Python 2023](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1NPgN91FrPU%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234420638&usg=AOvVaw0tcc3zAcSPy4p4sxGfRVkN)
+
+[Prepping for Brazil with NSA Technology](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DmenGbueOAK8&sa=D&source=editors&ust=1703097234420988&usg=AOvVaw2O8sUPy3EyIB3ZaHS7mspg)
+
+[Real-time Integration of WatsonX.AI Foundation Models with NiFi](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRPz7Xm4fLF4&sa=D&source=editors&ust=1703097234421325&usg=AOvVaw0FbgFPDaZHwjEMRiP1Opoi)
+
+[retail2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Ddo_MnCJfUZ8&sa=D&source=editors&ust=1703097234421757&usg=AOvVaw3tz0ZwQsHuD6nnrI7wDT5V)
+
+[S7 EP 2 of Future Proof: You 'Can' Step in the Same Stream Twice](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-d0bfispsAg%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234422150&usg=AOvVaw0Aj6RQCqb_V_6b-ddl-ZnU)
+
+[Scylla Summit 2022: FLiP Into Apache Pulsar Apps with ScyllaDB](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzVp4dAn5cUY%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234422553&usg=AOvVaw3HQYn3Gd8X60VBFSPmtjgR)
+
+[Seamless Integration: Unleashing the Power of Real-Time Groceries with NiFi, Kafka, Flink and JQuery](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_uYp8s6_6GA&sa=D&source=editors&ust=1703097234422935&usg=AOvVaw0r2eukRVkaKhjwcx4CVV2b)
+
+[Sink Your Teeth into Streaming at Any Scale](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZwhoosP1UWU%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234423278&usg=AOvVaw075UOO7-kzaSgQyCkUHLdO)
+
+[Streaming Data Pipeline Development - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHeXTwpsIvxo%26ab_channel%3DCloudera%252CInc.&sa=D&source=editors&ust=1703097234423654&usg=AOvVaw2JGgh117LyHv6MnBXUZeTb)
+
+[Streaming Stories #1：with Rayees Pasha of RisingWave Labs and Tim Spann of StreamNative](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5lFXI5333mg%26t%3D4s%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234424015&usg=AOvVaw2C7Xl9XunjzU9fZLr5SDMw)
+
+[Supercharging Real-Time Analytics at Scale (HTAP Summit 2022)](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DENhT0w44wVc%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234424369&usg=AOvVaw3ip3GX7jf4RRlhdkNjlSgV)
+
+[The Real-Time Stream Processing Unconference](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGncQz8HZr68%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234424730&usg=AOvVaw2qHu8OuAa-U2Jir1Cy48AK)
+
+[Thermal Images and Sensor Data From Edge to Kafka to Iceberg and Beyond](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5EbiRCcD8JE&sa=D&source=editors&ust=1703097234425071&usg=AOvVaw0zLs5CfFZnN6ZzR-2dDgyI)
+
+[Timothy & David - Spring + Pulsar + streaming](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DN-2gMIOop4g&sa=D&source=editors&ust=1703097234425399&usg=AOvVaw0o4fYeM5KziYAFDmQDIx8m)
+
+[Travel Advisory - NiFi - IBM DB/2](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9mYd4ISF8KY&sa=D&source=editors&ust=1703097234425862&usg=AOvVaw2HjtkEXaL3p9Or0ZV14Zos)
+
+[Unlocking Financial Data with Real-Time Pipelines – Tim Spann](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpsnRObquBfw%26t%3D638s%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234426393&usg=AOvVaw3rDJOIW7ydeWediP_IRkvP)
+
+[Using Apache Nifi with Apache Pulsar for Fast Data On Ramp](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DX7m4nZH8bUw%26pp%3DygULInRpbSBzcGFubiI%253D&sa=D&source=editors&ust=1703097234426946&usg=AOvVaw39JJZym6o5RYi26ggJl7lp)
+
+[Using Apache Nifi with Apache Pulsar for Fast Data On Ramp](https://www.google.com/url?q=https://streamnative.io/videos/pulsar-virtual-summit-europe-2023-using-apache-nifi-with-apache-pulsar-for-fast-data-on-ramp&sa=D&source=editors&ust=1703097234427473&usg=AOvVaw2eRl5-uba5Ow-a97EkeBCh)
+
+[Using Apache Nifi with Apache Pulsar for Fast Data On Ramp - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DX7m4nZH8bUw%26ab_channel%3DStreamNative&sa=D&source=editors&ust=1703097234427969&usg=AOvVaw2YWze5oILF4TJTxY7NXgUf)
+
+[Using the FLiPN Stack (Flink, NiFi, Pulsar) for Edge AI (Data Science Festival Summer School) - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0G98z_fs_SQ%26pp%3DygUIVGltIE5pRmk%253D&sa=D&source=editors&ust=1703097234428425&usg=AOvVaw2fbkmVO-DiWOqt2_xa7xkl)
+
+[Why Spring Belongs in Your Data Stream (from Edge to Multi-Cloud) - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUZRvUyjNWmg%26t%3D49s%26ab_channel%3DVMwareTanzu&sa=D&source=editors&ust=1703097234428894&usg=AOvVaw1QteBlCO88zK7n3mKlepIm)
+
+[Zoom Recording of meetup Thursday Oct 26, 2023](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyqVV-aQGAD8%26t%3D3s&sa=D&source=editors&ust=1703097234429344&usg=AOvVaw1jwQ4v1p8xjD3Yzfvx5fGB)
 
 
 
