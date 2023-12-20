@@ -136,9 +136,46 @@ Let me know in the comments.
 
 
 
+
 #### Code
 
-*
+| # |Code                                                                                                          |
+|---|--------------------------------------------------------------------------------------------------------------|
+|1  |https://github.com/tspannhw/FLaNK-LLM                                                                         |
+|2  |https://github.com/tspannhw/FLaNK-HBase2HBase                                                                 |
+|3  |https://github.com/tspannhw/FLaNK-ParticulateMatterSensor                                                     |
+|4  |https://github.com/tspannhw/FLaNK-NARs                                                                        |
+|5  |https://github.com/tspannhw/FLiP-Py-Enviro-Urban                                                              |
+|6  |https://github.com/tspannhw/FLaNK-Store                                                                       |
+|7  |https://github.com/tspannhw/FLaNK-AllTheStreams                                                               |
+|8  |https://github.com/tspannhw/FLaNK-DataFlows                                                                   |
+|9  |https://github.com/tspannhw/FLaNK-Py-DataSimulator                                                            |
+|10 |https://github.com/tspannhw/flank-airquality                                                                  |
+|11 |https://github.com/tspannhw/pulsar-thermal-pinot                                                              |
+|12 |https://github.com/tspannhw/ClouderaDataFlowLab                                                               |
+|13 |https://github.com/tspannhw/CloudDemo2023                                                                     |
+|14 |https://github.com/tspannhw/FLiP-Py-ADS-B                                                                     |
+|15 |https://github.com/tspannhw/FLaNK-Py-VOC-Sensors                                                              |
+|16 |https://github.com/tspannhw/airquality                                                                        |
+|17 |https://github.com/tspannhw/create-nifi-kafka-flink-apps                                                      |
+|18 |https://github.com/tspannhw/create-nifi-pulsar-flink-apps                                                     |
+|19 |https://github.com/tspannhw/Lab-NiFi-2023-001                                                                 |
+|20 |https://github.com/tspannhw/spring-pulsar-airquality                                                          |
+|21 |https://github.com/tspannhw/streamnative-rest-stocks                                                          |
+|22 |https://github.com/tspannhw/FLiPN-Py-Stocks                                                                   |
+|23 |https://github.com/tspannhw/FLaNK-ADSB                                                                        |
+|24 |https://github.com/tspannhw/FLaNK-Edge-Models                                                                 |
+|25 |https://github.com/tspannhw/spring-pulsar-reactiveair                                                         |
+|26 |https://github.com/tspannhw/FLaNK-HTAP/blob/main/kududdl.sql                                                  |
+|27 |https://github.com/tspannhw/NiFi-Man/tree/main                                                                |
+|28 |https://github.com/tspannhw/FLaNK-HuggingFace-DistilBert-SentimentAnalysis                                    |
+|29 |https://github.com/tspannhw/FLaNK-watsonx.data                                                                |
+|30 |https://github.com/tspannhw/AllThingsNiFi                                                                     |
+|31 |https://github.com/tspannhw/CFM-Monitoring                                                                    |
+
+
+
+
 
 #### Events
 
