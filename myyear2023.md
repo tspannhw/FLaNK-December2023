@@ -179,8 +179,6 @@ Let me know in the comments.
 
 
 
-
-
 #### Events and Meetups
 
 
@@ -417,19 +415,12 @@ Let me know in the comments.
 |45 |https://budapestdata.hu/download/dataml23/Timothy-Spann-Building-Modern-Data-Streaming-Apps-with-NiFi-Flink-and-Kafka-DataML23.pdf		|
 
 
-### Webinars
-
-* 
-
-
-### Schedule
-
 
 ### FLaNK  Weekly for 2023 (51 issues)
 
-118: 31-December-2023: Year End Wrap-Up.
+118: 31-December-2023: Year End Wrap-Up. https://github.com/tspannhw/FLiPStackWeekly/blob/main/118-31December2023.md
 
-117: 25-December-2023:
+117: 25-December-2023: https://github.com/tspannhw/FLiPStackWeekly/blob/main/117-25Dec2023.md
 
 116: 18-December-2023: https://github.com/tspannhw/FLiPStackWeekly/blob/main/116-18December2023.md
 
