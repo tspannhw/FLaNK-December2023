@@ -31,6 +31,11 @@ Building my Youtube to 200 members of personal youtube with 59 videos
 Schedule 
 [https://www.linkedin.com/pulse/schedule-2023-tim-spann-/](https://www.linkedin.com/pulse/schedule-2023-tim-spann-/)
 
+Pulsar Summit North America 2023			talk evaluator
+
+DeveloperWeek CloudX 2023			talk evaluator
+
+
 **2023**
 
 🎯 2 DZone Top Expert Zones 
