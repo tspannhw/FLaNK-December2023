@@ -94,51 +94,6 @@ Let me know in the comments.
 
 ### Slides
 
-https://www.slideshare.net/bunkertor/building-realtime-travel-alerts		
-https://www.slideshare.net/bunkertor/osacon-2023-unlocking-financial-data-with-realtime-pipelines		
-https://www.slideshare.net/bunkertor/jconworld-continuous-sql-with-kafka-and-flink		
-https://www.slideshare.net/bunkertor/endss23tspannintegrating-llm-with-streaming-data-pipelines		
-https://www.slideshare.net/bunkertor/evolve-2023-nyc-integrating-ai-into-realtime-data-pipelines-demo		
-https://www.slideshare.net/bunkertor/aidevworldapachenifi101-a533		
-https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup		
-https://www.slideshare.net/bunkertor/coc23-looking-at-the-new-features-of-apache-nifi		
-https://www.slideshare.net/bunkertor/coc23-lets-monitor-the-conditions-at-the-conference		
-https://www.slideshare.net/bunkertor/ossfinanceunlockingfinancialdatawithrealtimepipelinespdf		
-https://www.slideshare.net/bunkertor/coc23utilizing-realtime-transit-data-for-travel-optimization		
-https://www.slideshare.net/bunkertor/the-never-landing-stream-with-htap-and-streaming		
-https://www.slideshare.net/bunkertor/meetup-brasil-data-in-motion-2023-september-19-261164487		
-https://www.slideshare.net/bunkertor/partnerskillupenable-a-streaming-cdc-solution		
-https://www.slideshare.net/bunkertor/aidevday-datainmotion-to-supercharge-ai		
-https://www.slideshare.net/bunkertor/implement-a-universal-data-distribution-architecture-to-manage-all-streaming-data		
-https://www.slideshare.net/bunkertor/building-realtime-pipelines-with-flank-a-case-study-with-transit-data		
-https://www.slideshare.net/bunkertor/meetup-streaming-data-pipeline-development-258709707		
-https://www.slideshare.net/bunkertor/big-data-fest-building-modern-data-streaming-apps		
-https://www.slideshare.net/bunkertor/budapest-dataml-building-modern-data-streaming-apps-with-nifi-flink-and-kafka		
-https://www.slideshare.net/bunkertor/using-apache-nifi-with-apache-pulsar-for-fast-data-onramp		
-https://www.slideshare.net/bunkertor/ossna-building-modern-data-streaming-apps		
-https://www.slideshare.net/bunkertor/gsjug-mastering-data-streaming-pipelines-09may2023		
-https://www.slideshare.net/bunkertor/cloudera-sandbox-event-guidelines-for-workflow		
-https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation		
-https://www.slideshare.net/bunkertor/best-practices-for-workflow		
-https://www.slideshare.net/bunkertor/rtas-2023-building-a-realtime-iot-application		
-https://www.slideshare.net/bunkertor/meetup-streaming-data-pipeline-development		
-https://www.slideshare.net/bunkertor/warsawitdays-apachenifi202		
-https://www.slideshare.net/bunkertor/devnexus-apache-pulsar-development-101-with-java		
-https://www.slideshare.net/bunkertor/conf42-python-ml-enhanced-event-streaming-apps-with-python-microservices		
-https://www.slideshare.net/bunkertor/itpc-building-modern-data-streaming-apps		
-https://www.slideshare.net/bunkertor/pythonwebconference-cloud-native-apache-pulsar-development-202-with-python		
-https://www.slideshare.net/bunkertor/phillyjug-getting-started-with-realtime-cloud-native-streaming-with-java		
-https://www.slideshare.net/bunkertor/unconference-round-table-notes		
-https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot-256064590		
-https://www.slideshare.net/bunkertor/the-next-generation-of-streaming		
-https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud		
-https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot		
-https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming		
-https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale		
-https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python		
-https://www.slideshare.net/bunkertor/princeton-dec-2022-meetup-streamnative-and-cloudera-streaming		
-https://www.slideshare.net/Pivotal/lets-keep-it-simple-and-streamingpdf		
-https://budapestdata.hu/download/dataml23/Timothy-Spann-Building-Modern-Data-Streaming-Apps-with-NiFi-Flink-and-Kafka-DataML23.pdf		
 
 ### Webinars
 
