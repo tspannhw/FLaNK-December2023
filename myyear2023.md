@@ -94,6 +94,54 @@ Let me know in the comments.
 
 ### Slides
 
+| # |Slides                                                                                                                            |
+|---|----------------------------------------------------------------------------------------------------------------------------------|
+|1  |https://www.slideshare.net/bunkertor/building-realtime-travel-alerts		                                                            |
+|2  |https://www.slideshare.net/bunkertor/osacon-2023-unlocking-financial-data-with-realtime-pipelines		                               |
+|3  |https://www.slideshare.net/bunkertor/jconworld-continuous-sql-with-kafka-and-flink		                                              |
+|4  |https://www.slideshare.net/bunkertor/endss23tspannintegrating-llm-with-streaming-data-pipelines		                                 |
+|5  |https://www.slideshare.net/bunkertor/evolve-2023-nyc-integrating-ai-into-realtime-data-pipelines-demo		                           |
+|6  |https://www.slideshare.net/bunkertor/aidevworldapachenifi101-a533		                                                               |
+|7  |https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup		                   |
+|8  |https://www.slideshare.net/bunkertor/coc23-looking-at-the-new-features-of-apache-nifi		                                           |
+|9  |https://www.slideshare.net/bunkertor/coc23-lets-monitor-the-conditions-at-the-conference		                                        |
+|10 |https://www.slideshare.net/bunkertor/ossfinanceunlockingfinancialdatawithrealtimepipelinespdf		                                   |
+|11 |https://www.slideshare.net/bunkertor/coc23utilizing-realtime-transit-data-for-travel-optimization		                               |
+|12 |https://www.slideshare.net/bunkertor/the-never-landing-stream-with-htap-and-streaming		                                           |
+|13 |https://www.slideshare.net/bunkertor/meetup-brasil-data-in-motion-2023-september-19-261164487		                                   |
+|14 |https://www.slideshare.net/bunkertor/partnerskillupenable-a-streaming-cdc-solution		                                              |
+|15 |https://www.slideshare.net/bunkertor/aidevday-datainmotion-to-supercharge-ai		                                                    |
+|16 |https://www.slideshare.net/bunkertor/implement-a-universal-data-distribution-architecture-to-manage-all-streaming-data		          |
+|17 |https://www.slideshare.net/bunkertor/building-realtime-pipelines-with-flank-a-case-study-with-transit-data		                      |
+|18 |https://www.slideshare.net/bunkertor/meetup-streaming-data-pipeline-development-258709707		                                       |
+|19 |https://www.slideshare.net/bunkertor/big-data-fest-building-modern-data-streaming-apps		                                          |
+|20 |https://www.slideshare.net/bunkertor/budapest-dataml-building-modern-data-streaming-apps-with-nifi-flink-and-kafka		              |
+|21 |https://www.slideshare.net/bunkertor/using-apache-nifi-with-apache-pulsar-for-fast-data-onramp		                                  |
+|22 |https://www.slideshare.net/bunkertor/ossna-building-modern-data-streaming-apps		                                                  |
+|23 |https://www.slideshare.net/bunkertor/gsjug-mastering-data-streaming-pipelines-09may2023		                                         |
+|24 |https://www.slideshare.net/bunkertor/cloudera-sandbox-event-guidelines-for-workflow		                                             |
+|25 |https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation		                                                |
+|26 |https://www.slideshare.net/bunkertor/best-practices-for-workflow		                                                                |
+|27 |https://www.slideshare.net/bunkertor/rtas-2023-building-a-realtime-iot-application		                                              |
+|28 |https://www.slideshare.net/bunkertor/meetup-streaming-data-pipeline-development		                                                 |
+|29 |https://www.slideshare.net/bunkertor/warsawitdays-apachenifi202		                                                                 |
+|30 |https://www.slideshare.net/bunkertor/devnexus-apache-pulsar-development-101-with-java		                                           |
+|31 |https://www.slideshare.net/bunkertor/conf42-python-ml-enhanced-event-streaming-apps-with-python-microservices		                   |
+|32 |https://www.slideshare.net/bunkertor/itpc-building-modern-data-streaming-apps		                                                   |
+|33 |https://www.slideshare.net/bunkertor/pythonwebconference-cloud-native-apache-pulsar-development-202-with-python		                 |
+|34 |https://www.slideshare.net/bunkertor/phillyjug-getting-started-with-realtime-cloud-native-streaming-with-java		                   |
+|35 |https://www.slideshare.net/bunkertor/unconference-round-table-notes		                                                             |
+|36 |https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot-256064590		                              |
+|37 |https://www.slideshare.net/bunkertor/the-next-generation-of-streaming		                                                           |
+|38 |https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud		                             |
+|39 |https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot		                                        |
+|40 |https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming		                                                          |
+|41 |https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale		                                                |
+|42 |https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python		                                            |
+|43 |https://www.slideshare.net/bunkertor/princeton-dec-2022-meetup-streamnative-and-cloudera-streaming		                              |
+|44 |https://www.slideshare.net/Pivotal/lets-keep-it-simple-and-streamingpdf		                                                         |
+|45 |https://budapestdata.hu/download/dataml23/Timothy-Spann-Building-Modern-Data-Streaming-Apps-with-NiFi-Flink-and-Kafka-DataML23.pdf		|
+
 
 ### Webinars
 
