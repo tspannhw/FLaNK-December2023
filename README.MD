@@ -139,6 +139,13 @@ https://github.com/tspannhw/FLaNK-December2023/blob/main/myyear2023.md
 
 ### Thursday, December 21, 2023
 
+![img](https://github.com/tspannhw/FLiPStackWeekly/blob/main/generatedai/_f54b04b9-7c48-4920-b9db-ef29faab5c42.jpeg?raw=true)
+https://medium.com/cloudera-inc/future-of-data-streaming-a-look-at-2024-08f3a6f05d57
+
+https://github.com/tspannhw/FLaNK-December2023/blob/main/myyear2023.md
+
+
+
 
 
 
